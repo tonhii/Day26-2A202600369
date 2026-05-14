@@ -17,27 +17,40 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 | # | Mã học viên | Họ tên đầy đủ | Phân công chính |
 |---|---|---|---|
-| 1 | A20-XXXXX | [...] | [...] |
-| 2 | A20-XXXXX | [...] | [...] |
+| 1 | 2A202600369 | Hồ Thị Tố Nhi | Thử nghiệm + chụp ảnh + research Elicit (elicit.com) |
+| 2 | 2A202600432 | Trần Thị Kim Ngân | Thử nghiệm + chụp ảnh + research NotebookLM (notebooklm.google.com) |
 
 ---
 
 ## Nhiệm vụ thử nghiệm chung
 
-[Mô tả 1-2 câu nhiệm vụ chung mà cả 2 thành viên cùng test trên 2 sản phẩm. Ví dụ: "Viết bản tóm tắt 200 từ về tác động của AI lên ngành ed-tech, có dẫn nguồn."]
+Tìm kiếm bằng chứng khoa học cho câu hỏi: **"Does sleep deprivation negatively affect academic performance in university students?"** — so sánh cách 2 công cụ AI nghiên cứu xử lý cùng một câu hỏi học thuật: chất lượng tổng hợp tài liệu, độ tin cậy trích dẫn, và khả năng hỗ trợ ra quyết định dựa trên evidence.
 
-**Ngành chọn**: [A — Tìm kiếm / B — Lập trình / C — Viết lách / D — Nghiên cứu]
+**Ngành chọn**: D — Nghiên cứu
 
-**Sản phẩm A**: [tên + URL]
+**Sản phẩm A**: Elicit — https://elicit.com
 
-**Sản phẩm B**: [tên + URL]
+**Sản phẩm B**: NotebookLM — https://notebooklm.google.com
 
 ---
 
 ## Phân chia screenshot
 
-- Sản phẩm A → [Mã học viên nào phụ trách chụp]
-- Sản phẩm B → [Mã học viên nào phụ trách chụp]
+- Sản phẩm A (Elicit) → **2A202600369 — Hồ Thị Tố Nhi** phụ trách chụp
+- Sản phẩm B (NotebookLM) → **2A202600432 — Trần Thị Kim Ngân** phụ trách chụp
+
+### Danh sách ảnh cần chụp
+
+| File | Sản phẩm | Nội dung |
+|---|---|---|
+| `product-A-1-entry.png` | Elicit | Trang chủ / giao diện đầu vào |
+| `product-A-2-input.png` | Elicit | Sau khi nhập câu hỏi |
+| `product-A-3-output.png` | Elicit | Output: danh sách paper + summary |
+| `product-A-4-source.png` | Elicit | Data extraction table (tính năng đặc trưng) |
+| `product-B-1-entry.png` | NotebookLM | Trang chủ / giao diện đầu vào |
+| `product-B-2-input.png` | NotebookLM | Sau khi nhập câu hỏi |
+| `product-B-3-output.png` | NotebookLM | Output: Source-grounded summary + trích dẫn |
+| `product-B-4-pricing.png` | NotebookLM | Trang giá (cho S4) |
 
 ---
 
