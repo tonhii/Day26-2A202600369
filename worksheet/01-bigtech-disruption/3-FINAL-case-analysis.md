@@ -13,7 +13,7 @@ nop-cuoi: Có — file cuối Lab 1 (cá nhân)
 
 - **Tên case**: Adobe Inc. (NASDAQ: ADBE)
 - **Big tech AI tạo áp lực**: Midjourney (beta 7/2022) · DALL·E / ChatGPT image gen (OpenAI) · Stable Diffusion (Stability AI, 8/2022)
-- **Tác giả**: [Mã học viên — Họ tên]
+- **Tác giả**: 2A202600369 — Hồ Thị Tố Nhi
 - **Ngày phân tích**: 2026-05-14
 - **Phiên bản**: v1
 
